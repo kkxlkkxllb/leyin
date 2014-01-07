@@ -27,11 +27,20 @@ body {
 	background-color:#000;
 }
 .menu{
-	width: 64em;
-	margin:0 auto;
-	height:96em;
+	/*width: 32em;*/
+	margin: 0 auto;
+	height: 96em;
 	background-color:#efeeec;
 }
+/*@media only screen
+and (min-device-width : 768px)
+and (max-device-width : 1024px) {
+	.menu{
+		width: 64em;
+		height: 10em;
+	}
+
+}*/
 .topnav{
 	position: relative;
 	width: 100%;
@@ -53,6 +62,9 @@ body {
 	left: 20px;
 }
 .images{text-align: center; margin-top:90px; }
+
+
+
 .ysbj{ background:url(../images/index/enbj.jpg) no-repeat; height:603px; width:383px; margin:0 auto; margin-top:50px;}
 .img{ padding-left:22px; padding-top:50px; }
 .text{ padding-top:10px; padding-left:15px; width:270px; height:50px; margin-left:50px; margin-top:30px; font-size:16px; overflow:hidden;}
