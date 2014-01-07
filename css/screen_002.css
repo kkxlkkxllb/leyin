@@ -65,8 +65,21 @@ and (max-device-width : 1024px) {
 
 
 
-.ysbj{ background:url(../images/index/enbj.jpg) no-repeat; height:603px; width:383px; margin:0 auto; margin-top:50px;}
-.img{ padding-left:22px; padding-top:50px; }
-.text{ padding-top:10px; padding-left:15px; width:270px; height:50px; margin-left:50px; margin-top:30px; font-size:16px; overflow:hidden;}
-.add{ padding-left:30px; padding-top:55px; color:#666;   }
-.tj{ margin-top:70px; padding-left:60px;}
+.ysbj{
+ 	background:url(../images/index/enbj.jpg) no-repeat;
+ 	background-size: 32em;
+ 	background-position: center;
+	height:603px; margin-top:50px;
+}
+.img{padding-top: 90px; text-align: center; }
+.img img{
+	max-width: 280px;
+}
+.text{ padding-top:10px;
+	text-align: center;
+	 height:50px;
+	 /*line-height: 50px;*/
+	 margin-top:30px;
+ 	font-size: 1.2em; overflow:hidden;}
+.add{width: 22em;margin: 0 auto; font-size: 1.2em; padding-top: 2.5em; color:#666;   }
+.tj{ margin-top:70px; text-align:  center;}
