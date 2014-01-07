@@ -1,0 +1,17 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta content="width=device-width,user-scalable=no" name="viewport"> 
+<title>乐印站</title>
+<link href="css/screen_002.css" rel="stylesheet" type="text/css" />
+</head>
+<body>
+<div class="menu">
+  <div class="logo" > 
+  <span style="padding-left:20px; padding-top:25px; "><img   src="images/index/logo.jpg" align="absmiddle"  /> </span>
+   <span style="padding-left:170px; font-weight:bold; font-size:34px;">选择照片样式</span> </div>
+  <div class="images"><a href="ys1.html"><img src="images/index/imge.jpg" width="352" height="554" /></a></div>
+</div>
+</body>
+</html>

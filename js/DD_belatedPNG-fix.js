@@ -1,0 +1,1 @@
+DD_belatedPNG.fix('img,.menubox ,.menu,.menuright li a,.menuright1 li a  ');
